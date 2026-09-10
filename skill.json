@@ -1,0 +1,15 @@
+{
+  "name": "genpark-volume-weighted-average-price-vwap-skill",
+  "version": "1.0.0",
+  "description": "Volume-Weighted Average Price (VWAP) benchmark engine calculating cumulative execution quality and institutional slippage metrics.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "vwap",
+    "algorithmic-trading",
+    "execution-algorithms",
+    "quantitative-finance"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
